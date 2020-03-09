@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-songs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-songs/static/js/main.334e44f6.chunk.js",
+    "main.js.map": "/react-songs/static/js/main.334e44f6.chunk.js.map",
+    "runtime-main.js": "/react-songs/static/js/runtime-main.d77d12a3.js",
+    "runtime-main.js.map": "/react-songs/static/js/runtime-main.d77d12a3.js.map",
+    "static/js/2.52d26ef6.chunk.js": "/react-songs/static/js/2.52d26ef6.chunk.js",
+    "static/js/2.52d26ef6.chunk.js.map": "/react-songs/static/js/2.52d26ef6.chunk.js.map",
+    "index.html": "/react-songs/index.html",
+    "precache-manifest.543858fafc0fd044d2720218c1dd8aad.js": "/react-songs/precache-manifest.543858fafc0fd044d2720218c1dd8aad.js",
+    "service-worker.js": "/react-songs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-songs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.52d26ef6.chunk.js.LICENSE.txt": "/react-songs/static/js/2.52d26ef6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-songs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77d12a3.js",
+    "static/js/2.52d26ef6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.334e44f6.chunk.js"
+  ]
+}
